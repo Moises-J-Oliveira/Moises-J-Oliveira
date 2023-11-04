@@ -1,7 +1,7 @@
 ### Olá! Eu sou Moises Junior 
 
 - 🔭 Hoje trabalho como Desenhista detalhista
-- 🌱 Formado em Engenharia Mecânica / Estudando Engenharia de Software, Python e Java
+- 🌱 Formado em Engenharia Mecânica / Estudando Engenharia de Software, Python
 - 😄 Pronouns: ele/dele
 - 💻 Apaixonado por tecnologia
 - 🎮 Apaixonado por jogos
